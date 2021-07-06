@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=LCD_CS Pin=U8-27
+Added Pin To Net: NetName=LCD_RESET Pin=U8-28
+Added Pin To Net: NetName=LCD_DC Pin=U8-33
+Added Pin To Net: NetName=LCD_LED Pin=U8-37
+Added Room: Name=Sheet1

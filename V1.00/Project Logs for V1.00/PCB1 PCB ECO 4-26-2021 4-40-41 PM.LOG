@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=LCD_SCK Pin=U8-34
+Added Pin To Net: NetName=LCD_MISO Pin=U8-35
+Added Pin To Net: NetName=LCD_MOSI Pin=U8-36
+Added Pin To Net: NetName=JOYSTEIK Pin=U8-43
+Added Pin To Net: NetName=DMX_RX Pin=U8-52
+Added Room: Name=Sheet1

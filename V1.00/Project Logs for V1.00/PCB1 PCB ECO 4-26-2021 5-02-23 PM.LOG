@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=PGOOD Pin=U8-38
+Added Pin To Net: NetName=FAN_CONTROL Pin=U8-39
+Added Pin To Net: NetName=FAN_PWM Pin=U8-41
+Added Room: Name=Sheet1

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PWM_C Pin=D2-2
+Removed Pin From Net: NetName=PWM_C Pin=R10-1
+Added Pin To Net: NetName=FAN_PWM Pin=D2-2
+Added Pin To Net: NetName=FAN_PWM Pin=R10-1
+Added Net: Name=FAN_PWM
+Added Room: Name=Sheet1

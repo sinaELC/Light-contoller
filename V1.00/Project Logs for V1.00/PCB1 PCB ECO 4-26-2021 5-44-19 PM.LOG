@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=LORA-NSS Pin=U8-40
+Added Pin To Net: NetName=NRF_CE Pin=U8-44
+Added Pin To Net: NetName=NRF_CSN Pin=U8-45
+Added Room: Name=Sheet1

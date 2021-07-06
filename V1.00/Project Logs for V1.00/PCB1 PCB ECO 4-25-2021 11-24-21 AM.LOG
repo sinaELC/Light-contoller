@@ -1,0 +1,9 @@
+Added Component: Designator=K1(Rotary Digital Encoder)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=ROTARY_M1 Pin=K1-1
+Added Pin To Net: NetName=GND Pin=K1-2
+Added Pin To Net: NetName=ROTARY_M2 Pin=K1-3
+Added Pin To Net: NetName=ROTARY_KEY Pin=K1-4
+Added Pin To Net: NetName=NetK1_5 Pin=K1-5
+Added Member To Class: ClassName=Sheet1 Member=Component K1 Rotary Digital Encoder
+Added Room: Name=Sheet1
